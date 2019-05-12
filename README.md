@@ -2,7 +2,7 @@
 this library allows you configure object mappings in a seperate layer
 
 
-###sample code
+##sample code
 
             //create a mapping service
             var mappingService = new MappingService();
